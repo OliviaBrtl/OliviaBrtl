@@ -33,6 +33,6 @@ I am an associate professor with tenure (maître de conférences - HDR) at the U
 
 I hold a PhD in Economics from the Paris School of Economics. My current research interests lie in the fields of development applied microeconomics, in particular social preferences, gender and conflicts.
 
-I enjoy teaching Public Policies in Developing countries and Development Micro-Econometrics to second year Master students, as well as Micro-econometrics and Gender Economics to first year Master students at UPD.
+I enjoy teaching Public Policies in Developing countries and Development Micro-Econometrics to second year Master students, as well as Micro-econometrics and Gender Economics to first year Master students at UPD. I am also the director of the [Master in Quantitative Economics](https://dauphine.psl.eu/en/training/masters-degrees/quantitative-economics/m1) at University Paris-Dauphine.
 
 You can find me on [Orcid](https://orcid.org/0000-0002-0190-5341) and [Google Scholar](https://scholar.google.com/citations?user=l5wBs5EAAAAJ&hl=fr) and you can follow me on [LinkedIn](https://www.linkedin.com/in/olivia-bertelli-785874267/) 
