@@ -5,5 +5,6 @@ description: Randomized evaluation of a parental education training program and 
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
+\cite{PAP_Nepal} available at (https://doi.org/10.1257/rct.10478-1.0) 
