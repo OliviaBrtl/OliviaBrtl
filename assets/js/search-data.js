@@ -446,12 +446,10 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-at-university-of-rouen-dept-economics-seminar",
           title: 'Presentation at University of Rouen, dept.Economics seminar',
           description: "",
-          section: "News",},{id: "news-presentation-at-rennes-university-dept-of-economics-seminar",
-          title: 'Presentation at Rennes University, dept. of Economics seminar',
+          section: "News",},{id: "news-presentation-at-university-of-rennes-dept-of-economics-seminar",
+          title: 'Presentation at University of Rennes, dept. of Economics seminar',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
