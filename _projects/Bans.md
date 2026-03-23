@@ -2,7 +2,7 @@
 layout: page
 title: "Bans against FGM"
 description: "Female Genital Mutilation Bans: Natural Experiments from 19 Countries"
-img: assets/img/7.jpg
+img: assets/img/2.jpg
 importance: 2
 category: work
 ---
