@@ -440,14 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-presentation-at-university-of-rouen-dept-economics-seminar",
+            },},{id: "news-presentation-at-university-of-rouen-dept-economics-seminar",
           title: 'Presentation at University of Rouen, dept.Economics seminar',
           description: "",
           section: "News",},{id: "news-presentation-at-university-of-rennes-dept-of-economics-seminar",
           title: 'Presentation at University of Rennes, dept. of Economics seminar',
+          description: "",
+          section: "News",},{id: "news-presentation-at-the-jpo-at-université-paris-est-créteil-val-de-marne-erudite",
+          title: 'Presentation at the JPO at Université Paris-Est Créteil Val de Marne, ERUDITE',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
