@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://OliviaBrtl.github.io/al-folio/sitemap.xml
+Sitemap: https://OliviaBrtl.github.io/sitemap.xml
