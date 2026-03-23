@@ -44,12 +44,7 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-at-the-jpo-at-université-paris-est-créteil-val-de-marne-erudite",
           title: 'Presentation at the JPO at Université Paris-Est Créteil Val de Marne, ERUDITE',
           description: "",
-          section: "News",},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/OliviaBrtl/projects/5_project.html";
-            },},{id: "projects-project-6",
+          section: "News",},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
