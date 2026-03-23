@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Work in progress.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/OliviaBrtl/projects/";
@@ -89,6 +89,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/OliviaBrtl/projects/9_project.html";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/OliviaBrtl/projects/Bans";
             },},{id: "projects-pen",
           title: 'PEN',
           description: "Randomized evaluation of a parental education training program and its impacts on children&#39;s early childhood development outcomes in Nepal",
