@@ -440,18 +440,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-presentation-at-university-of-rouen-dept-economics-seminar",
           title: 'Presentation at University of Rouen, dept.Economics seminar',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-presentation-at-rennes-university-dept-of-economics-seminar",
+          title: 'Presentation at Rennes University, dept. of Economics seminar',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/al-folio/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
