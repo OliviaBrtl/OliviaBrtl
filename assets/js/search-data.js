@@ -93,7 +93,7 @@ ninja.data = [{
           title: '',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/OliviaBrtl/projects/Bans";
+              window.location.href = "/OliviaBrtl/projects/Bans.html";
             },},{id: "projects-pen",
           title: 'PEN',
           description: "Randomized evaluation of a parental education training program and its impacts on children&#39;s early childhood development outcomes in Nepal",
