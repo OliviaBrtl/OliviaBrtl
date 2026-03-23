@@ -54,6 +54,11 @@ ninja.data = [{
           description: "Randomized evaluation of a parental education training program and its impacts on children&#39;s early childhood development outcomes in Nepal",
           section: "Projects",handler: () => {
               window.location.href = "/OliviaBrtl/projects/PAP_Nepal.html";
+            },},{id: "projects-swedd",
+          title: 'SWEDD',
+          description: "Sahel Women&#39;s Demographic Dividend",
+          section: "Projects",handler: () => {
+              window.location.href = "/OliviaBrtl/projects/SWEDD.html";
             },},{id: "projects-yemen",
           title: 'Yemen',
           description: "Effects on pro-social attitudes of a youth employment program in Yemen",
