@@ -44,12 +44,7 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-at-the-jpo-at-université-paris-est-créteil-val-de-marne-erudite",
           title: 'Presentation at the JPO at Université Paris-Est Créteil Val de Marne, ERUDITE',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/OliviaBrtl/projects/9_project.html";
-            },},{id: "projects-bans-against-fgm",
+          section: "News",},{id: "projects-bans-against-fgm",
           title: 'Bans against FGM',
           description: "Female Genital Mutilation Bans: Natural Experiments from 19 Countries",
           section: "Projects",handler: () => {
