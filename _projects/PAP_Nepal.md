@@ -5,9 +5,10 @@ description: Randomized evaluation of a parental education training program and 
 img: assets/img/20220907_135708.jpg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 Arestoff, F., Bertelli, O., Djemaï, E., Ghimire, D., & Sharma, U. (2026). Impact Evaluation of Parental Education Campaign on Child Development in Nepal. DIAL Working Paper n.2025-07
+
 Available at (https://hal.science/hal-05482365v1/file/2025-07-PEN_IE_WP.pdf) 
 
 This study assesses the impacts of a parental education community training on child
