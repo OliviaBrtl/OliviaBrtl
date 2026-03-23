@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my webpage!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an associate professor with tenure (maître de conférences - HDR) at the University of Paris-Dauphine, PSL, in the departement of Economics (LEDA) and member of the development economics group DIAL.
+My research interests lie in the fields of development applied microeconomics, in particular gender, conflicts and agricultural production.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I enjoy teaching Public Policies in Developing countreis and Development Micro-Econometrics to second year Master students, as well as Micro-econometrics, Stata and Gender Economics to first year Master students at UPD.
+You will find my publication page [here](/al-folio/publications/).
+
+You can find me on [Orcid](https://orcid.org/0000-0002-0190-5341) and [Google Scholar](https://scholar.google.com/citations?user=l5wBs5EAAAAJ&hl=fr) and you can follow me on [LinkedIn](https://www.linkedin.com/in/olivia-bertelli-785874267/) 
