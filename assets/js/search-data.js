@@ -59,6 +59,11 @@ ninja.data = [{
           description: "Randomized evaluation of a parental education training program and its impacts on children&#39;s early childhood development outcomes in Nepal",
           section: "Projects",handler: () => {
               window.location.href = "/OliviaBrtl/projects/PAP_Nepal.html";
+            },},{id: "projects-yemen",
+          title: 'Yemen',
+          description: "Effects on pro-social attitudes of a youth employment program in Yemen",
+          section: "Projects",handler: () => {
+              window.location.href = "/OliviaBrtl/projects/Yemen_WD.html";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
