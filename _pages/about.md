@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Associate Professor in Economics</a>. Université Paris-Dauphine, PSL
 
 profile:
   align: right
   image: Bertelli.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office number P111</p>
+    <p>Place Maréchal de Lattre de Tassigny</p>
+    <p>Paris, 75016, France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
