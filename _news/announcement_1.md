@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: March 12, 2026
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+ Presentation at University of Rouen, dept.Economics seminar
