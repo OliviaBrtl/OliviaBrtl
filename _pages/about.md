@@ -6,7 +6,7 @@ subtitle: <a href='#'>Associate Professor in Economics</a>. Université Paris-Da
 
 profile:
   align: right
-  image: Bertelli.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office number P111</p>
