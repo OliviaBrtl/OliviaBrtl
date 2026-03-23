@@ -9,7 +9,7 @@ related_publications: false
 ---
 Arestoff, F., Bertelli, O., Djemaï, E., Ghimire, D., & Sharma, U. (2026). Impact Evaluation of Parental Education Campaign on Child Development in Nepal. DIAL Working Paper n.2025-07
 
-Available at (https://hal.science/hal-05482365v1/file/2025-07-PEN_IE_WP.pdf) 
+Available [here](https://hal.science/hal-05482365v1/file/2025-07-PEN_IE_WP.pdf) 
 
 This study assesses the impacts of a parental education community training on child
 development in Nepal. Relying on a sample of approximately 1,000 households, we randomly
