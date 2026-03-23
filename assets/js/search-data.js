@@ -89,9 +89,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/OliviaBrtl/projects/9_project.html";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-bans-against-fgm",
+          title: 'Bans against FGM',
+          description: "Female Genital Mutilation Bans: Natural Experiments from 19 Countries",
           section: "Projects",handler: () => {
               window.location.href = "/OliviaBrtl/projects/Bans.html";
             },},{id: "projects-pen",
