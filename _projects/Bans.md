@@ -5,7 +5,6 @@ description: "Female Genital Mutilation Bans: Natural Experiments from 19 Countr
 img: assets/img/7.jpg
 importance: 2
 category: work
-related_publications: true
 ---
 
 Olivia Bertelli, Mathilde Lesueur, and Sandrine Mesplé-Somps (2026).
