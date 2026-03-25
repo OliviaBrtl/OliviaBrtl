@@ -37,4 +37,4 @@ I enjoy teaching Public Policies in Developing countries and Development Micro-E
 
 You can find me on [Orcid](https://orcid.org/0000-0002-0190-5341) and [Google Scholar](https://scholar.google.com/citations?user=l5wBs5EAAAAJ&hl=fr) and you can follow me on [LinkedIn](https://www.linkedin.com/in/olivia-bertelli-785874267/) 
 
-Just released my new book! [Gender Economics in the Global South](https://www.cambridge.org/core/elements/gender-economics-in-the-global-south/5FF51BB5B37B2C067A6BDB7A4329E8F0#metrics) free for download, enjoy!
+Just released my new book! [Gender Economics in the Global South](https://www.cambridge.org/core/elements/gender-economics-in-the-global-south/5FF51BB5B37B2C067A6BDB7A4329E8F0#metrics) free to download, enjoy!
