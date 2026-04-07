@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SWEDD
-description: Sahel Women's Demographic Dividend
+description: Sahel Women's Empowerment and Demographic Dividend
 img: assets/img/4.jpg
 importance: 2
 category: work
