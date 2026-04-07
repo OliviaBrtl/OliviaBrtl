@@ -24,7 +24,9 @@
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: black;
+    font-weight: bold;
+    border-color: black;
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
