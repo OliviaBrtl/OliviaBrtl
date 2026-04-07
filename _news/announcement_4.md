@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- Webinar of the [Inclusive Growth in Mozambique](https://igmozambique.wider.unu.edu/) Programme - Presentation of Gender Economics in the Global South
+ Webinar of the [Inclusive Growth in Mozambique](https://igmozambique.wider.unu.edu/) Programme - Presentation of "Gender Economics in the Global South"
