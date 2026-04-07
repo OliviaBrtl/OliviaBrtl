@@ -37,11 +37,19 @@ ninja.data = [{
           section: "News",},{id: "news-presentation-at-the-jpo-at-université-paris-est-créteil-val-de-marne-erudite",
           title: 'Presentation at the JPO at Université Paris-Est Créteil Val de Marne, ERUDITE',
           description: "",
+          section: "News",},{id: "news-webinar-of-the-inclusive-growth-in-mozambique-programme-presentation-of-gender-economics-in-the-global-south",
+          title: 'Webinar of the Inclusive Growth in Mozambique Programme - Presentation of “Gender Economics...',
+          description: "",
           section: "News",},{id: "projects-bans-against-fgm",
           title: 'Bans against FGM',
           description: "Female Genital Mutilation Bans: Natural Experiments from 19 Countries",
           section: "Projects",handler: () => {
               window.location.href = "/OliviaBrtl/projects/Bans.html";
+            },},{id: "projects-liwp",
+          title: 'LIWP',
+          description: "Labor Intensive Work Program in Yemen",
+          section: "Projects",handler: () => {
+              window.location.href = "/OliviaBrtl/projects/LIWP.html";
             },},{id: "projects-pen",
           title: 'PEN',
           description: "Randomized evaluation of a parental education training program and its impacts on children&#39;s early childhood development outcomes in Nepal",
@@ -49,14 +57,9 @@ ninja.data = [{
               window.location.href = "/OliviaBrtl/projects/PAP_Nepal.html";
             },},{id: "projects-swedd",
           title: 'SWEDD',
-          description: "Sahel Women&#39;s Demographic Dividend",
+          description: "Sahel Women&#39;s Empowerment and Demographic Dividend",
           section: "Projects",handler: () => {
               window.location.href = "/OliviaBrtl/projects/SWEDD.html";
-            },},{id: "projects-yemen",
-          title: 'Yemen',
-          description: "Effects on pro-social attitudes of a youth employment program in Yemen",
-          section: "Projects",handler: () => {
-              window.location.href = "/OliviaBrtl/projects/Yemen_WD.html";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
