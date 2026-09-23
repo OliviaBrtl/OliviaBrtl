@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office number P111</p>
+    <p>Office number B429</p>
     <p>Place Maréchal de Lattre de Tassigny</p>
     <p>Paris, 75016, France</p>
 
