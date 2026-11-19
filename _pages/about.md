@@ -39,4 +39,4 @@ You can find me on [Orcid](https://orcid.org/0000-0002-0190-5341) and [Google Sc
 
 **Just released my new book!** [Gender Economics in the Global South](https://www.cambridge.org/core/elements/gender-economics-in-the-global-south/5FF51BB5B37B2C067A6BDB7A4329E8F0#metrics) free to download, enjoy!
 
-I will be on sabbatical between January and June 2027 and visiting the European University Institute's department of Economics.
+I will be on sabbatical between January and June 2027 and visiting the **European University Institute's department of Economics**.
