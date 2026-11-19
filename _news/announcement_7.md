@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- Presenting at WIP Workshop at Paris-Dauphine a paper on legislation against FGM
+Presenting at WIP Workshop at Paris-Dauphine [a paper on legislation against FGM]({% link _projects/Bans.md %})
